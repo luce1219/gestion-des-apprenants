@@ -1,0 +1,28 @@
+h2 {
+    width: 100%;
+    max-width: 500px;
+    margin: 10px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+  }
+  
+  /* Style pour les titres h2 dans la carte */
+  #app h2 {
+    color: #333;
+    height: 100px;
+    width: 280px;
+  }
+  
+  #app  {
+    list-style-type: none;
+    padding: 0;
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr;
+  }
+  
+  #app  {
+    margin-bottom: 5px;
+  }
